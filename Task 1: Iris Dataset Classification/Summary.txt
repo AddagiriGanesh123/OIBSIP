@@ -1,0 +1,2 @@
+Iris Dataset Classification Features: PetalLengthCm,PetalWidthCm,SepalLengthCm and SepalWidthCm
+Target:Speicies->Iris-Setosa,Iris-versicolor,Iris-virginica
