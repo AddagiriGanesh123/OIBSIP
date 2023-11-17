@@ -1,1 +1,3 @@
-This repository task assigned to me by infobyte
+Car Price Prediction Machine Learning
+The price of a car depends upon the lot of factors like the goodwill of the brand of the car.
+Features of the car,horsepower and the milege it gives and manymore.car price prediction is one of the major research areas in machine learning.
