@@ -1,0 +1,2 @@
+Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product,the segment of the people you advertise for ,or the platform you are advertising about.
+Typically, a product and service based business always need thier data scientist to predict thire future sales with every step they will take to manipulate the cost of advertsing thier product.
