@@ -1,1 +1,2 @@
-in this project
+We have all been the recipient of spam emails before spam mails,or junk mail, is a type of email that is sent to massive number of users at aone time,frequently containing cryptic messages,scams,or most dangerously, punishing content.
+Here in this we came accross through the Email is either spam or ham detectin using Machine Learning Algorithm.
